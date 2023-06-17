@@ -1,6 +1,10 @@
 # A decolonial study of ancestors in Africa based on archaeological and palaeoanthropological methods
 Developed with students by Dr Yin-Man Lam, Department of Anthropology, University of Victoria, and Simran Kambo
 
+## Live links
+Leaflet storymap: https://ancestorsinafrica.github.io/storymap/
+Google sheet: https://docs.google.com/spreadsheets/d/1qWpyIytQUCEB-tS2Imgz27OOwXcaqf6QgagxqJDcV2I/edit#gid=0
+
 <p align="center">
   <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
 </p>

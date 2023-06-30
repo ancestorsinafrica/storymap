@@ -1,5 +1,5 @@
 # A decolonial study of ancestors in Africa based on archaeological and palaeoanthropological methods
-Developed with students by Dr Yin-Man Lam, Department of Anthropology, University of Victoria, and Simran Kambo
+Developed with students by Dr Yin-Man Lam, Department of Anthropology, University of Victoria, Simran Kambo and Isabelle Rutherford
 
 ## Live links
 - Leaflet storymap: https://ancestorsinafrica.github.io/storymap/
